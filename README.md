@@ -18,7 +18,7 @@ I’m especially interested in how technology can be used not only to build prod
 ## 🛠️ Skills & Technologies
 
 * 🎮 **Game Development:** Unity (2D & 3D)
-* 💻 **Programming:** C#
+* 💻 **Programming:** C# ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 * 🎨 **Shaders:** Shader Graph & HLSL
 * 🧠 **Core Concepts:** Clean Code, Design Patterns, System Design
 * ⚙️ **Workflow Optimization:** AI tools & productivity systems
