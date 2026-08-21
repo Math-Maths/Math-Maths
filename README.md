@@ -10,7 +10,6 @@ I build gameplay systems focused on responsive game feel, clean architecture, an
 ---
 
 ## Featured Projects
----
 ### ⚠️ Test Room
 **_Unity • C# • Mobile Gameplay_**
 
