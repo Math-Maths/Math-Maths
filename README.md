@@ -35,7 +35,7 @@ Fast-paced mobile arcade game developed as a personal project, focused on respon
 
 👉 [View Project](https://github.com/Math-Maths/test-room-game) 👈
 
----
+<!---
 ### 🦠 Dr. Celius - O Guardião do Corpo
 **_Unity • C# • PC • Pixel Art_**
 
@@ -46,7 +46,7 @@ Educational document-inspection game developed as sole programmer and artist.
 
 <img width="426" height="240" alt="dr-celius-mini-play" src="https://github.com/user-attachments/assets/17de6175-cc90-40c9-a822-5b1b9e15b067" />
 
-👉 [View Project](https://github.com/Math-Maths/dr-cellius-guardiao) 👈
+👉 [View Project](https://github.com/Math-Maths/dr-cellius-guardiao) 👈-->
 
 ---
 ### Let's Connect
