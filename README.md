@@ -20,7 +20,7 @@ I enjoy building intuitive systems, responsive mechanics, and elegant solutions 
 ---
 
 ## Featured Projects
-### 🤖 Test Room
+### 🤖 [Test Room](https://github.com/Math-Maths/test-room-game)
 **_Unity • C# • Mobile Gameplay_**
 
 Fast-paced mobile arcade game developed as a personal project, focused on responsive gameplay and mobile performance.
@@ -33,7 +33,7 @@ Fast-paced mobile arcade game developed as a personal project, focused on respon
 
 <img width="426" height="240" alt="test-room-play-throught" src="https://github.com/user-attachments/assets/f4ae7a2f-b46d-4b2d-8558-0e2d8d887ced" />
 
-👉 [View Project](https://github.com/Math-Maths/test-room-game) 👈
+<!--👉 [View Project](https://github.com/Math-Maths/test-room-game) 👈-->
 
 <!---
 ### 🦠 Dr. Celius - O Guardião do Corpo
